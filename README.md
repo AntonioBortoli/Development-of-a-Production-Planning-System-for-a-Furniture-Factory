@@ -1,0 +1,1 @@
+Design and implementation of an object-oriented system in Smalltalk for planning production tasks in a furniture factory. Composite patterns were used, and resources, products, activities, schedules, and production orders were modeled.
